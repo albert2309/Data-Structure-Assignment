@@ -1,0 +1,7 @@
+﻿  AddCustomer.cpp
+  AdminMenu.cpp
+  MyForm.cpp
+  Generating Code...
+AddCustomer.obj : warning LNK4248: unresolved typeref token (0100001C) for 'sqlite3_stmt'; image may not run
+AddCustomer.obj : warning LNK4248: unresolved typeref token (01000020) for 'sqlite3'; image may not run
+  DSTRIntergrated.vcxproj -> C:\Users\Albert\Documents\Visual Studio 2017\Projects\DSTRIntergrated\Release\DSTRIntergrated.exe

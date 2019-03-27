@@ -1,0 +1,18 @@
+﻿  MyForm.cpp
+  SortCustomer.cpp
+  Generating Code...
+SortCustomer.obj : warning LNK4248: unresolved typeref token (01000029) for 'sqlite3_stmt'; image may not run
+RemoveTransaction.obj : warning LNK4248: unresolved typeref token (01000024) for 'sqlite3_stmt'; image may not run
+RecordTransaction.obj : warning LNK4248: unresolved typeref token (01000026) for 'sqlite3_stmt'; image may not run
+MyForm.obj : warning LNK4248: unresolved typeref token (0100002D) for 'sqlite3_stmt'; image may not run
+modifyInfo.obj : warning LNK4248: unresolved typeref token (01000027) for 'sqlite3_stmt'; image may not run
+ConfirmationDequeue.obj : warning LNK4248: unresolved typeref token (01000024) for 'sqlite3_stmt'; image may not run
+AddCustomer.obj : warning LNK4248: unresolved typeref token (01000026) for 'sqlite3_stmt'; image may not run
+SortCustomer.obj : warning LNK4248: unresolved typeref token (0100002F) for 'sqlite3'; image may not run
+RemoveTransaction.obj : warning LNK4248: unresolved typeref token (0100002A) for 'sqlite3'; image may not run
+RecordTransaction.obj : warning LNK4248: unresolved typeref token (0100002C) for 'sqlite3'; image may not run
+MyForm.obj : warning LNK4248: unresolved typeref token (01000033) for 'sqlite3'; image may not run
+modifyInfo.obj : warning LNK4248: unresolved typeref token (0100002D) for 'sqlite3'; image may not run
+ConfirmationDequeue.obj : warning LNK4248: unresolved typeref token (01000029) for 'sqlite3'; image may not run
+AddCustomer.obj : warning LNK4248: unresolved typeref token (0100002C) for 'sqlite3'; image may not run
+  DSTRIntergrated.vcxproj -> C:\Users\Albert\Documents\Visual Studio 2017\Projects\DSTRIntergrated\Debug\DSTRIntergrated.exe
